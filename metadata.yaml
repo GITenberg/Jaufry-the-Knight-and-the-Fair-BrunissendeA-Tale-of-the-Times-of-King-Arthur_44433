@@ -30,6 +30,8 @@ creator:
     gutenberg_agent_id: '42757'
     url: http://www.gutenberg.org/2009/agents/42757
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44433#Jaufry-the-Knight-and-the-Fair-BrunissendeA-Tale-of-the-Times-of-King-Arthur
 gutenberg_issued: '2013-12-14'
 gutenberg_type: Text
 identifiers:
